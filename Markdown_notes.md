@@ -4,7 +4,7 @@
 
 ### **Tips:**
 - Keep it simple and well-structured.
-- Use proper markdown formatting for headings, lists, and code blocks.
+- Use proper Markdown formatting for headings, lists, and code blocks.
 - Regularly update the README as the project evolves.
 
 ### **Markdown Syntax Notes:**
