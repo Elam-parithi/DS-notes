@@ -1,4 +1,7 @@
-# Notes on Writing a README.md File
+# Checklist for README.md File
+If you don't know how to add a proper `README.md` file, you can use the following steps.
+These are very handy. If you want [Markdown notes](https://github.com/Elam-parithi/DS-notes/blob/main/Markdown_notes.md) its here.
+---
 
 ## 1. **Project Title**
 - Clear and concise name of the project.
@@ -46,7 +49,9 @@
 
 ## 10. **Badges (Optional)**
 - Add badges for build status, coverage, downloads, etc.
-- Use services like Shields.io.
+- Use services like [Shields.io](https://shields.io/badges), they have their own docs, use it. 
+- The Badge looks like this
+        ![Static Badge](https://img.shields.io/badge/any_text-you_like-blue).
 
 ## 11. **Acknowledgements**
 - Credit contributors, libraries, or resources that helped in the project.
@@ -55,13 +60,10 @@
 
 ### **Tips:**
 - Keep it simple and well-structured.
-- Use proper markdown formatting for headings, lists, and code blocks.
+- Use proper Markdown formatting for headings, lists, and code blocks.
 - Regularly update the README as the project evolves.
+- Avoid adding images that take full width of the file. 
+Even the pictures is good it makes it bit unprofessional.
+- All above checklist for `*.md` file only. Not for any other docs like PDF, or GitHub pages.
 
-### **Markdown Syntax Basics:**
-- `#` for H1, `##` for H2, and so on.
-- `-` or `*` for bullet points.
-- Backticks (`) for inline code, triple backticks for code blocks.
-- `![alt text](image_url)` for images.
-- `[Link Text](URL)` for hyperlinks.
 

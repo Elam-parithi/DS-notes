@@ -1,2 +1,12 @@
 # DS-notes
-My Data Science notes using streamlit. Includes Python, streamlit, SQL, MongoDB, ML, AI and others. 
+
+Here I create notes using Markdown files for beginners in data science. 
+And webpage also created using GitHub pages for easy access to the files.
+
+#### Web link
+[elam-parithi.github.io/DS-notes](https://elam-parithi.github.io/DS-notes/)
+
+
+## contacts
+
+if you have time connect with me on LinkedIn [Elamparithi](https://www.linkedin.com/in/elamparithi-t)

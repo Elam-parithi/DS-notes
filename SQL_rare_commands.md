@@ -1,4 +1,6 @@
-# SQL Server GitHub Notes
+# SQL server notes
+This Note is not for SQL Learning. These are for beginners. 
+where these commands might not cover in the initial courseware.
 
 ## 1. SQL Replication
 
