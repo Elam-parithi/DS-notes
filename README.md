@@ -1,5 +1,7 @@
 # DS-notes
 
+![Static Badge](https://img.shields.io/badge/Created_by-Elamparithi-blue)
+
 Here I create notes using Markdown files for beginners in data science. 
 And webpage also created using GitHub pages for easy access to the files.
 
