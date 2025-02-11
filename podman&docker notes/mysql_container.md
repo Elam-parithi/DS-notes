@@ -82,6 +82,7 @@ MySQL is known for its reliability, ease of use, and performance.
     ``` bash
     docker-compose down
     ```
+  
 ## Notes
 - MySQL use volumes (mysql_data) to store data persistently. If you delete the container, the data will remain intact in these directories.
 - For MySQL, you can set `MYSQL_ROOT_PASSWORD` to secure the root user.

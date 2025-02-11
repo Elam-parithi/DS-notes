@@ -2,6 +2,7 @@
 ---
 
 ### 1. Create a Virtual Environment
+
 creates a virtual environment named 'myenv':
   ```bash
   python -m venv myenv

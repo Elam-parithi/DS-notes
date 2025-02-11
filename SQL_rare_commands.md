@@ -99,6 +99,7 @@ DROP LOGIN MyUser;
   ```sql
   DBCC CHECKDB ('MyDB');
   ```
+  
 - Rebuild indexes:
   ```sql
   ALTER INDEX ALL ON dbo.MyTable REBUILD;

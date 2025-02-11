@@ -90,7 +90,7 @@ Save the following configuration as docker-compose.yaml:
   ```bash
   docker-compose down
   ```
-  
+
 ## notes
   - MongoDB use volumes (mongo_data) to store data persistently.
   - For MongoDB, you can set `MONGO_INITDB_ROOT_USERNAME` and `MONGO_INITDB_ROOT_PASSWORD` to create a root user.

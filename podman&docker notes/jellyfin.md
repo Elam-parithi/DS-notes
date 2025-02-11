@@ -137,6 +137,7 @@ Without docker-compose knowledge it is hard to configure.
     - file is on 
       - `C:\Windows\System32\drivers\etc\hosts`. open with administrator privileges in windows.
       - `/etc/hosts` on linux
+  
     - set your desired ip address and name
       ``` text
       192.168.1.114  myjellyfin.website

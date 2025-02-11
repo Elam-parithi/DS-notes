@@ -8,7 +8,6 @@
 - Regularly update the README as the project evolves.
 
 ### **Markdown Syntax Notes:**
-
 #### **Headings:**
 - `#` for H1
 - `##` for H2

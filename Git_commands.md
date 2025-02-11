@@ -5,6 +5,7 @@
   ```bash
   git init
   ```
+  
 - **Clone an existing repository:**
   ```bash
   git clone <repository_url>

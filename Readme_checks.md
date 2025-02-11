@@ -57,7 +57,6 @@ These are very handy. If you want [Markdown notes](https://github.com/Elam-parit
 - Credit contributors, libraries, or resources that helped in the project.
 
 ---
-
 ### **Tips:**
 - Keep it simple and well-structured.
 - Use proper Markdown formatting for headings, lists, and code blocks.

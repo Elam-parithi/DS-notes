@@ -127,6 +127,7 @@ print(f"Debug Mode: {debug_mode}")
         "PORT": 8000
       }
       ```
+      
     - Load and read the JSON File in Python
       ``` python
       import json

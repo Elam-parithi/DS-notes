@@ -9,4 +9,5 @@ And webpage also created using GitHub pages for easy access to the files.
 
 ## contacts
 
-if you have time connect with me on LinkedIn [Elamparithi](https://www.linkedin.com/in/elamparithi-t)
+if you have time,
+connect with me on LinkedIn [Elamparithi](https://www.linkedin.com/in/elamparithi-t)

@@ -1,6 +1,7 @@
 # Python Project Setup Notes
 
 ## 1. Creating a Virtual Environment
+
 ```bash
 # Create a virtual environment named '.venv'
 python -m venv .venv
